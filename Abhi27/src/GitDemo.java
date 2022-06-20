@@ -18,7 +18,7 @@ public class GitDemo
 	
 	public void m2()
 	{
-			System.out.println("my name is Abhijit madane from phaltan");
+			System.out.println("my name is Abhijit madane from Kolki");
 
 	
 	}
