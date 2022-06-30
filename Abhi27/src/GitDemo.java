@@ -6,7 +6,7 @@ public class GitDemo
 	{
 		
 		
-		System.out.println("my name is Abhijit");
+		System.out.println("my name is Komal");
 		
 	}
 	public void m1()
